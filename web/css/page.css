@@ -1,0 +1,41 @@
+/*
+
+.style1{
+    pointer-events: none;
+}
+.style2{
+    z-index: 1000;
+}
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  /* border: 1px solid red; */
+  /* width: 15%;
+  align-items: center;
+  justify-content: center;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+  font-size: 1em;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+}
+
+.special-star-active{
+  color: red;
+  z-index: 1000;
+}
+
+.star-active{
+  color: gold;
+  z-index: 1001;
+}
+.default{
+  color:red;
+  z-index: 999;
+}  */
